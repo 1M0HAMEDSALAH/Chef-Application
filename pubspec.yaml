@@ -25,12 +25,5 @@ flutter:
 
   # Assets configuration
   assets:
-    - assets/img/ # Ensure this folder and the files inside exist
+    - assets/img/ 
 
-flutter_native_splash:
-  image: assets/img/s.png # Ensure this file exists in the correct folder
-  android: true
-  ios: true
-  android_gravity: center
-  ios_content_mode: center
-  color: "#ffffff" # Background color

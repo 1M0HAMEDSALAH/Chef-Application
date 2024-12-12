@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class ResetPasswordScreen extends StatelessWidget {
-  const ResetPasswordScreen({super.key});
+class AddMenuScreen extends StatelessWidget {
+  const AddMenuScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
